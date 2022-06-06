@@ -1,5 +1,7 @@
 # Denis Hlushakou  
 
+<img src ="https://user-images.githubusercontent.com/102652553/172164730-36185655-cfd2-43dd-95ae-2f5659e3df9a.jpg" width="150"/>
+
 ### Contakts: 
 **phone:** +375(29) 204-28-21  
 **disk:** DenGlushakov@DenGlushakoV  
