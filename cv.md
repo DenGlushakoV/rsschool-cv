@@ -6,7 +6,9 @@
 **phone:** +375(29) 204-28-21  
 **disk:** DenGlushakov@DenGlushakoV  
 **email:** denglushakov@inbox.ru
+
 ***
+
 ### About my:
 Unfortunately, my previous work experience had nothing to do with IT. I worked as a specialist in the field of agriculture, where I was engaged in crop management.
 
@@ -26,22 +28,30 @@ My interest led me to the RSScool courses. I really hope that I will be able to 
 * adaptability (adjust your workflow when the situation changes)
 * attentiveness
 * punctuality
+
 ***
+
 ### Skills:
 At the moment I do not have programming skills, but I really hope that in the near future I will acquire the necessary knowledge in the field of programming!
+
 ***
+
 ### Work experience:
 #### The company "Interra"
 ___Information technologies, system integration, Internet___
 * Software development
 * System integration, automation of technological and business processes
 of the enterprise, IT consulting
+
 ***
+
 ### Education:
 * ___SkilUp___ - It specialist training center, Minsk, Belarus
 * ___Higher School of Agribusiness___ - 
 Economics and organization of production in agricultural industries, Organization management
+
 ***
+
 ### Language:
 * Russian
 * English - А1
