@@ -9,9 +9,23 @@
     font-weight: 300;
 }
 
+@media (max-width: 768px) {
+    .section {
+        width: 100%;
+    }
+}
+
+.header {
+    background-color: #829985;
+}
+
 body {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.5;
     min-height: 100vh;
+    color: #4d2323;
     margin: 0;
     padding: 0;
     display: flex;
@@ -33,6 +47,7 @@ body {
     justify-content: flex-end;
     align-items: center;
     list-style: none;
+
 }
 
 html {
@@ -51,8 +66,26 @@ html {
     color: #F91906;
 }
 
-h1 {
-    font-size: large;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: blue;
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 30px;
+}
+
+.section {
+    width: 100%;
+    text-align: justify;
+}
+
+.section-title {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+}
+
+.img {
+    padding-left: 100px;
+    margin: 0px;
 }
